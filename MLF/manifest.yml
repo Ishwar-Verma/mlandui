@@ -1,0 +1,7 @@
+applications:
+- name: testmlf
+  host: testapppythonmlf
+  path: .
+  memory: 128M
+  command: python test.py
+     

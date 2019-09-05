@@ -1,0 +1,7 @@
+applications:
+- name: testmlfui
+  host: testapppythonmlfui
+  path: .
+  memory: 128M
+  buildpack: staticfile_buildpack
+     
